@@ -1,4 +1,4 @@
-# minicurso_sageMath
+# Minicurso de SageMath
  
  *Notebooks (Jupyter) de um minicurso de introdução ao SageMath.*
  
