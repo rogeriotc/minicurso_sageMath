@@ -2,7 +2,7 @@
  
  *Notebooks (Jupyter) de um minicurso de introdução ao SageMath.*
  
- Repositório no Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rogeriotc/minicurso_sageMath/master)
+ Veja no Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rogeriotc/minicurso_sageMath/master)
  
  **Partes disponíveis:**
  1. Inctrodução, expressões simbólicas e funções básicas de cálculo. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rogeriotc/minicurso_sageMath/blob/master/SageMath_I.ipynb/master)
