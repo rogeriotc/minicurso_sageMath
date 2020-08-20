@@ -1,6 +1,6 @@
 # Minicurso de SageMath
  
-## Notebooks (Jupyter) de um minicurso de introdução ao SageMath.**
+## Notebooks (Jupyter) de um minicurso de introdução ao SageMath.
  
 
  1. **Introdução**
