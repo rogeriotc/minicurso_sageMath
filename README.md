@@ -25,10 +25,13 @@
 
 ### 5. Mais gráficos, animation e interact
 
-* Animation (breve)
-* Interact (breve)
+* Animation (Va)
+* Interact (Vb)
 
-### 6. SageManifold I (breve)
+### 6. SageManifold I
+
+* Pré-SageManifold (VIa)
+* Schwarzschild (breve)
 
 ***
 
