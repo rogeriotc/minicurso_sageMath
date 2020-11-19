@@ -18,7 +18,7 @@
 * Jupyter (IIIb).
 * Extra: resolução de dois problemas básicos de geometria diferencial (III_e). 
 
-### 4. Python e Sage
+### 4. Python e SageMath
 
 * Noções de Python para Sage (IVa)
 * Extra: dicionário e radiação Hawking (IV_e)
@@ -33,6 +33,8 @@
 * Pré-SageManifold (VIa)
 * Schwarzschild (breve)
 
+
+### Extra - Uma breve exposição sobre o SageMath
 ***
 
  Veja o repositório no Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rogeriotc/minicurso_sageMath/master)
